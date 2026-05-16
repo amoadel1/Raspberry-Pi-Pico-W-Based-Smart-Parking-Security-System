@@ -1,4 +1,8 @@
 # Raspberry-Pi-Pico-W-Based-Smart-Parking-Security-System
+![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi%20Pico%20W-green)
+![Language](https://img.shields.io/badge/Language-CircuitPython-blue)
+![Simulation](https://img.shields.io/badge/Simulation-Wokwi-orange)
+![Status](https://img.shields.io/badge/Project-Completed-success)
 
 An embedded smart parking and security system developed using Raspberry Pi Pico W and CircuitPython.  
 The project combines password authentication, automatic gate control, parking slot monitoring, alarm protection, and real-time visual feedback using LCD and dual 7-segment displays.
